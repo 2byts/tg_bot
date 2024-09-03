@@ -1,0 +1,28 @@
+Here’s a brief 10-word description for each command:
+
+- **/start**  
+  "Starts bot, shows submitted Gmail accounts and balance details."
+
+- **/review_accounts**  
+  "Admin command to review and approve/reject pending Gmail accounts."
+
+- **/approve**  
+  "Admin command to approve a pending Gmail account submission."
+
+- **/reject**  
+  "Admin command to reject a pending Gmail account submission."
+
+- **/wallet**  
+  "Displays your current wallet balance."
+
+- **/payment**  
+  "Request a payment; select method and provide details."
+
+- **/approve_payment**  
+  "Admin command to approve a user’s payment request."
+
+- **/reject_payment**  
+  "Admin command to reject a user’s payment request."
+
+- **/restart**  
+  "Admin command to restart the bot."
